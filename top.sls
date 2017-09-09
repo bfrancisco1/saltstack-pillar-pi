@@ -1,3 +1,3 @@
 base:
-  'home*':
+  '*':
     - ntp
