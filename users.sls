@@ -2,7 +2,7 @@ users:
   pi:
     fullname: default pi
     password: September2017
-    enforce_password: True
+    enforce_password: False
     empty_password: False
   ben:
     fullename: Ben Francisco
