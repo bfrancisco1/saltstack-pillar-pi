@@ -11,6 +11,7 @@ users:
     empty_password: False
     system: False
     hash_password: False
+    sudouser: True
     ssh_config:
       all:
         hostname: "*"
