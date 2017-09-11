@@ -5,7 +5,7 @@ users:
     enforce_password: False
     empty_password: False
   ben:
-    fullename: Ben Francisco
+    fullname: Ben Francisco
     password: Packers2017
     enforce_password: True
     empty_password: False
