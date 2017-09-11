@@ -10,6 +10,7 @@ users:
     enforce_password: True
     empty_password: False
     system: False
+    hash_password: False
     ssh_config:
       all:
         hostname: "*"
