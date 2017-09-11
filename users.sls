@@ -15,34 +15,41 @@ users:
     ssh_keys:
       privkey: |
         -----BEGIN RSA PRIVATE KEY-----
-        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
+        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
         -----END RSA PRIVATE KEY-----
       pubkey: |
-        ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDEFIYtrFROLsRNuCvMH72tC9OgngR7wyeb8Br62GhFFxkG4qRa8H+sfSoUovhkxfL6Kr8FpSU1TCqXe+hLmga/ETptRFRdTYYybwvXPouOo6cTny+hd7u7xEO4Qba/gBf5BBuMP22kmPe6uCQfBjKhxbtEDrWBrpSAIwR4gvxGCUt43GopqlYima1GOUlsKDTuqKyj8jSddcHD3rDRf6hEK7uAqJSc8C21xb91zpay1HmFkSzwaxTpdyywD0dj18LnTEFNkamquKEcSsjXCAqOcLbqpXz7P2/by29UzgLy9PnBjQKgIMxcLU8+BJsR0fromC4cXWbySEKPzyhVvcen ben@saltmaster01.francisco.science
+        ---- BEGIN SSH2 PUBLIC KEY ----
+        AAAAB3NzaC1yc2EAAAABJQAAAQEAkltbCaOb7cekuMzqGnzjDaK0R/RoCexofKIn
+        4dWvCUUNxJnAa/TIKd40MUSsWxtIw3NtQ1V59DW3o7U9d5G+nVdWGDEwsGOJuftL
+        srf4X8Ku23wCnyq5rTGSwtPH1YAsQ9BQPc0wRfE5j85M36yLOOA0wjEMJPbyADoG
+        mkEdYi9dgQJb4Vfu2uBY3+ebGmEM+EjUI2ctcq1jaVvlYjqJeAG73uKciqlmslZg
+        kt+paoz/YcouMY5EcU7SZTVa3m6QCE1EiPDSZY4mTngbqc6cTBIAXtOPAwiQPVUa
+        1zvIZAFrBlqchlZrf+crfTj6lpxyNi+VHAfzki/3JBm/Q2qNwQ==
+        ---- END SSH2 PUBLIC KEY ----
     ssh_config:
       all:
         hostname: "*"
