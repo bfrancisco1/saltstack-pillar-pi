@@ -6,7 +6,7 @@ users:
     empty_password: False
   ben:
     fullename: Ben Francisco
-    password: Packers2017
+    password: $6$wPackers2017
     enforce_password: True
     empty_password: False
     ssh_config:
