@@ -6,7 +6,7 @@ users:
     empty_password: False
   ben:
     fullname: Ben Francisco
-    password: 12345
+    password: "12345"
     enforce_password: True
     empty_password: False
     system: False
