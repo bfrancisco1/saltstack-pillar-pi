@@ -41,7 +41,7 @@ users:
 				u4psD8M8guKae4V3uM0r63ZgMvR1bEGA/EoJFpI9tLam+G0Qd3vfvyZpj97tPH0L
 				u4E2j+SUnlScIJOMy17WZgsrGWgGv/ePXPxzc6q89DzHQptsHtA=
 				-----END RSA PRIVATE KEY-----
-      pubkey:  |
+      pubkey: |
 				ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDEFIYtrFROLsRNuCvMH72tC9OgngR7wyeb8Br62GhFFxkG4qRa8H+sfSoUovhkxfL6Kr8FpSU1TCqXe+hLmga/ETptRFRdTYYybwvXPouOo6cTny+hd7u7xEO4Qba/gBf5BBuMP22kmPe6uCQfBjKhxbtEDrWBrpSAIwR4gvxGCUt43GopqlYima1GOUlsKDTuqKyj8jSddcHD3rDRf6hEK7uAqJSc8C21xb91zpay1HmFkSzwaxTpdyywD0dj18LnTEFNkamquKEcSsjXCAqOcLbqpXz7P2/by29UzgLy9PnBjQKgIMxcLU8+BJsR0fromC4cXWbySEKPzyhVvcen ben@saltmaster01.francisco.science
     ssh_config:
       all:
