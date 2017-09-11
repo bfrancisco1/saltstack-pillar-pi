@@ -6,7 +6,7 @@ users:
     empty_password: False
   ben:
     fullename: Ben Francisco
-    password: $6$wPackers2017
+    password: Packers2017
     enforce_password: True
     empty_password: False
     system: False
