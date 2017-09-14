@@ -1,6 +1,6 @@
 sshd_config:
   ConfigBanner: |
-    Test Message
+    Test
   LogLevel: VERBOSE
   AllowUsers:
     - ben
